@@ -1,0 +1,65 @@
+<div id="ball" style="
+  z-index:5;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  background:green"></div>
+
+<script>
+var ball = document.getElementById('ball');
+var x_velocity = 5;
+var y_velocity = 3;
+var x_edge = 500;
+var y_edge = 500;
+var x_position = 0;
+var y_position = 0;
+var x_direction = 'forward';
+var y_direction = 'forward';
+
+function move2DWithEdge(){
+  // change x direction and ball dimensions if beyond edge
+  if (x_direction === 'forward' && x_position >= x_edge){
+    x_direction = 'reverse';
+    ball.style.width = 25 + 'px';
+    ball.style.background = 'black';
+  }
+  if (x_direction === 'reverse' && x_position <= 0){
+    x_direction = 'forward';
+    ball.style.width = 50 + 'px';
+    ball.style.background = 'green';
+  }
+  // increment x position
+  if (x_direction === 'forward'){
+    x_position += x_velocity;
+  }
+  else{
+    x_position -= x_velocity;
+  }
+
+  // change y direction and ball dimensions if beyond edge
+  if (y_direction === 'forward' && y_position >= y_edge){
+    y_direction = 'reverse';
+    ball.style.height = 25 + 'px';
+    ball.style.background = 'red';
+  }
+  if (y_direction === 'reverse' && y_position <= 0){
+    y_direction = 'forward';
+    ball.style.height = 50 + 'px';
+  }
+  // increment y position
+  if (y_direction === 'forward'){
+    y_position += y_velocity;
+  }
+  else{
+    y_position -= y_velocity;
+  }
+  // update ball properties
+  ball.style.left = x_position+'px';
+  ball.style.top = y_position+'px';
+}
+
+setInterval(move2DWithEdge, 10)
+</script>

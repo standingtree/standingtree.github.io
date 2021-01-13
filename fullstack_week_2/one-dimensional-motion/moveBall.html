@@ -1,0 +1,46 @@
+<div id="ball" style="
+  z-index:5;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  background:green"></div>
+
+<script>
+
+var velocity = 10;
+var position = 0;
+var ball = document.getElementById('ball');
+
+// YOUR CODE
+// ----------------
+function moveRight(){
+  position += velocity;
+  ball.style.left = position+'px';
+}
+
+//setInterval(moveRight, 10)
+
+var edgeLength = 1000;
+var direction = 'forward';
+
+function moveRightWithEdge(){
+  if (direction === 'forward' && position <= edgeLength){
+    position += velocity;
+    ball.style.left = position+'px';
+  }
+  else if (position >= 0){
+    direction = 'reverse';
+    position -= velocity;
+    ball.style.left = position+'px';
+  }
+  else {
+    direction = 'forward';
+  }
+}
+
+
+setInterval(moveRightWithEdge, 10)
+</script>
