@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4 Starter Files/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4 Starter Files/PacMan1.png" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/images/PacMan1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4 Starter Files/PacMan2.png" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/images/PacMan2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4 Starter Files/PacMan3.png" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/images/PacMan3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4 Starter Files/PacMan4.png" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/images/PacMan4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 4 Starter Files/starter01.html" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/starter01.html" afterDir="false" />
-    </list>
+    <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +60,7 @@
       <workItem from="1609973462089" duration="4323000" />
       <workItem from="1610081050274" duration="13786000" />
       <workItem from="1611115237045" duration="7753000" />
-      <workItem from="1611345739957" duration="6178000" />
+      <workItem from="1611345739957" duration="6496000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 testing">
       <created>1609977920926</created>
@@ -105,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611728952801</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PacMan practice project.">
+      <created>1611729367117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611729367117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PacMan practice project.">
+      <created>1611729592671</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611729592671</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +122,7 @@
     <MESSAGE value="week 2 testing" />
     <MESSAGE value="week 2" />
     <MESSAGE value="week 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 4" />
+    <MESSAGE value="PacMan practice project." />
+    <option name="LAST_COMMIT_MESSAGE" value="PacMan practice project." />
   </component>
 </project>
