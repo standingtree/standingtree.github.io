@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fullstack.iml" filepath="$PROJECT_DIR$/.idea/fullstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fullstack_exercises/.idea/fullstack.iml" filepath="$PROJECT_DIR$/../fullstack_exercises/.idea/fullstack.iml" />
     </modules>
   </component>
 </project>

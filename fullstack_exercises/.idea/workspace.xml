@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tables_exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/bigBang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/primer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/projectile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/randomWalk2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/randomwalk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3starterfile/string.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/fullstack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fullstack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullstack_week_2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/bootstrap/00.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/00.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/bootstrap/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/bootstrap/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/bootstrap/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/bootstrap/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/TOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/js.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/doc/usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/functions-libraries/ball.html" beforeDir="false" afterPath="$PROJECT_DIR$/functions-libraries/ball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/functions-libraries/ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions-libraries/ball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/functions-libraries/magic.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions-libraries/magic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/functions-objects/ball.html" beforeDir="false" afterPath="$PROJECT_DIR$/functions-objects/ball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/functions-objects/ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions-objects/ball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/functions-objects/magic.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions-objects/magic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/html/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/html/shapes.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/shapes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/html/variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/img/ub_city_at_night.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ub_city_at_night.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/js/vendor/modernizr-3.11.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/one-dimensional-motion/moveBall.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-dimensional-motion/moveBall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/one-dimensional-motion/moveBall_bonus.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-dimensional-motion/moveBall_bonus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/tile-wide.png" beforeDir="false" afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstack_week_2/tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1miPVNFqGQ4wCFUxMw8GKbuSzQt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="moveBall_bonus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fullstack/one-dimensional-motion/moveBall_bonus.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.moveBall_bonus.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="" />
+      <created>1609973460326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609973460326</updated>
+      <workItem from="1609973462089" duration="4323000" />
+      <workItem from="1610081050274" duration="13786000" />
+      <workItem from="1611115237045" duration="7753000" />
+      <workItem from="1611345739957" duration="3389000" />
+    </task>
+    <task id="LOCAL-00001" summary="week 2 testing">
+      <created>1609977920926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609977920926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week 2">
+      <created>1610532068268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610532068268</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="week 2 testing" />
+    <MESSAGE value="week 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2" />
+  </component>
+</project>
