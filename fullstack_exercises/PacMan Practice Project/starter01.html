@@ -8,29 +8,29 @@
     var direction = 0;
     var focus = 0;
     var pageWidth = window.innerWidth;
+    let counter = 0;
 
-    function Run() {
-        let img = document.getElementById("PacMan");
-        let imgWidth = img.width
-        focus = (focus + 1) % 2;
-        direction = checkPageBounds(direction, imgWidth, pos, pageWidth);
-        img.src = pacArray[direction][focus];
-        if (direction) {
-            pos -= 50;
-            img.style.left = pos + "px";
-        } else {
-            pos += 50;
-            img.style.left = pos + 'px';
-        }
-        // Use setTimeout to call Run every 200 millesecs
-
+    let Run = () => {
+      let img = document.getElementById("PacMan");
+      let imgWidth = img.width;
+      focus = (focus + 1) % 2;
+      direction = checkPageBounds(direction, imgWidth, pos, pageWidth);
+      img.src = pacArray[direction][focus];
+      if (direction) {
+        pos -= 50;
+        img.style.left = pos + "px";
+      } else {
+        pos += 50;
+        img.style.left = pos + 'px';
+      }
+      // Use setTimeout to call Run every 200 milleseconds
+      // counter += 1;
+      // console.log(`Run() called ${counter} times.`)
     }
 
 
-
-    function checkPageBounds(direction, imgWidth, pos, pageWidth) {
-        //
-        // Complete this to reverse direction on hitting page bounds
+    let checkPageBounds = (direction, imgWidth, pos, pageWidth) => {
+      // Complete this to reverse direction on hitting page bounds
       switch(direction){
         case 1:
           if (pos < 0){
@@ -45,6 +45,7 @@
       }
       return direction;
     }
+
 
     setInterval(Run, 200);
 
