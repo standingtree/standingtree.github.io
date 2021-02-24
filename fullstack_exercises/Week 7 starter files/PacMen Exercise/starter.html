@@ -26,11 +26,12 @@
         newimg.src = 'PacMan1.png';
         newimg.width = 100;
         //
-        // set position here 
-        //
+        // set position here
+        newimg.style.position.x = position.x;
+        newimg.style.position.y = position.y;
 
         // add new Child image to game
-        game.appendChild( ? ? ? );
+        game.appendChild(newimg);
         // return details in an object
         return {
             position,
@@ -48,14 +49,29 @@
 
             item.newimg.style.left = item.position.x;
             item.newimg.style.top = item.position.y;
+
+            pos = 1-pos;
+            item.newimg.src = pacArray[direction][pos];
         })
         setTimeout(update, 20);
     }
 
     function checkCollisions(item) {
-        //
-        // detect collision with all walls and make pacman bounce
-        //
+      //
+      // detect collision with all walls and make pacman bounce
+      let windowWidth = window.innerWidth;
+      let windowHeight = window.innerHeight;
+
+      if (item.position.x >= windowWidth-item.newimg.width || item.position.x <= 0){
+        item.velocity.x = -item.velocity.x;
+        direction = 1-direction;
+      }
+
+      if (item.position.y >= windowHeight-item.newimg.width || item.position.y <= 0){
+        item.velocity.y = -item.velocity.y;
+       }
+
+
     }
 
     function makeOne() {

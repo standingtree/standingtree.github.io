@@ -2,93 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Filter Exercise/filter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Filter Exercise/graffitiPerZip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Filter Exercise/graffiti_all.json.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Filter Exercise/graffiti_chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Filter Exercise/graffiti_july_2015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Filter Exercise/zipCodes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/For Each Exercise/addPayments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/For Each Exercise/forEach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/For Each Exercise/payments_2005_to_2010.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Map Exercise/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Reduce Exercise/reduce_00.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Reduce Exercise/reduce_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Sort Exercise/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Sort Exercise/salaries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Sort Exercise/sort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Sort Exercise/sort_exercise.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Sort Exercise/sort_salaries.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Word Count Exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Word Count Exercise/starter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 6 starter files/Word Count Exercise/wordCount.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/hello.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Hello World Exercise/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/hello.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject JavaScript into HTML Exercise/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/index0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/posts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/Inject Posts Into Div Exercise/puppet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/PacMan1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/PacMan2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/PacMan3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/PacMan4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/starter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk-boston/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk-boston/Walk Boston Exercise Data Lifecycle.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk-boston/boston.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk-boston/boston.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walk-boston/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/ball.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/bigBang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/mystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/primer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/projectile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/randomWalk2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/randomwalk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 3 starter files/string.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7 starter files/greeting-test-exercise/greeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 7 starter files/greeting-test-exercise/greeting.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PacMan Practice Project/starter01.html" beforeDir="false" afterPath="$PROJECT_DIR$/PacMan Practice Project/starter01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/ball.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/bigBang.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/mystyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/primer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/projectile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/randomWalk2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/randomwalk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3starterfile/string.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/starter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/starter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -162,7 +85,9 @@
       <workItem from="1611779240127" duration="18587000" />
       <workItem from="1612902297326" duration="7315000" />
       <workItem from="1613339246082" duration="1701000" />
-      <workItem from="1613601160441" duration="596000" />
+      <workItem from="1613601160441" duration="1213000" />
+      <workItem from="1614055419445" duration="6120000" />
+      <workItem from="1614099091544" duration="4839000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 testing">
       <created>1609977920926</created>
@@ -220,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611729651351</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="week 7 updates">
+      <created>1613602467998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613602467998</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +176,7 @@
     <MESSAGE value="week 2" />
     <MESSAGE value="week 4" />
     <MESSAGE value="PacMan practice project." />
-    <option name="LAST_COMMIT_MESSAGE" value="PacMan practice project." />
+    <MESSAGE value="week 7 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 7 updates" />
   </component>
 </project>
