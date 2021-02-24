@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/greeting-test-exercise/greeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 7 starter files/greeting-test-exercise/greeting.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7 starter files/MIT Facts Exercise/mit.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/starter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 7 starter files/PacMen Exercise/starter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,7 @@
       <workItem from="1613339246082" duration="1701000" />
       <workItem from="1613601160441" duration="1213000" />
       <workItem from="1614055419445" duration="6120000" />
-      <workItem from="1614099091544" duration="4839000" />
+      <workItem from="1614099091544" duration="6432000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 testing">
       <created>1609977920926</created>
@@ -152,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613602467998</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="week 7 updates">
+      <created>1614140147584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614140147584</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
