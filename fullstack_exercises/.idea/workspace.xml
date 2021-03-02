@@ -2,6 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/animated-style-application.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/applying-styles-programmatically.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/bringing-it-together.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/bigEyes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/eyes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/eyes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/oneEye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/eye-exercise/oneeye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/google-font-styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/solutions/animated-style-application_solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/solutions/apply-styles-programmatically_solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/solutions/bringing-it-together_solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/solutions/styling-the-grid-programmatically_solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/solutions/using-timers-and-styles_solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/styling-the-grid-programmatically.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 8 starter files/using-timers-and-styles.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="package.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,7 +98,7 @@
       <workItem from="1613339246082" duration="1701000" />
       <workItem from="1613601160441" duration="1213000" />
       <workItem from="1614055419445" duration="6120000" />
-      <workItem from="1614099091544" duration="6432000" />
+      <workItem from="1614099091544" duration="15008000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 testing">
       <created>1609977920926</created>
@@ -152,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614140147584</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="week 7 updates">
+      <created>1614185584371</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614185584371</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
