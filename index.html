@@ -1,24 +1,20 @@
 <!doctype html>
 <html>
-	<head>
-		<title>StandingTree's Portfolio</title>
-		<!--   CSS only -->
-		<link rel="stylesheet"
-			  href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-			  integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
-			  crossorigin="anonymous">
-
-		<!--   now we can use all CSS styles in bootstrap! -->
-		<link rel="preconnect" href="https://fonts.gstatic.com">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap">
-		<link rel="stylesheet" href="styles.css">
-	</head>
-	<body>
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a class="navbar-brand" href="https://standingtree.github.io/">Home</a>
-		<a class="navbar-brand" href="portfolio.html">Portfolio</a>
-		</nav>
+<head>
+	<title>StandingTree's Portfolio</title>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+<!-- start Nav bar-->
+<div id="nav-placeholder"></div>
+<script>
+	$(function(){
+		$("#nav-placeholder").load("nav.html");
+	});
+</script>
+<!-- end Nav Bar-->
 
 
-	</body>
+
+</body>
 </html>
