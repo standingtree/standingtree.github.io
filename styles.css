@@ -1,6 +1,10 @@
 
-body{
+body .navbar {
   font-family: "Roboto";
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-weight: bold;
+}
+
+.navbar-link {
+  padding-left: 0.625em;
 }
