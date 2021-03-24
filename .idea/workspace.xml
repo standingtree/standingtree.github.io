@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="449c3486-26c4-4c8c-ad0d-ed0095cb7d7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616456848299</updated>
-      <workItem from="1616456849867" duration="23720000" />
+      <workItem from="1616456849867" duration="24525000" />
     </task>
     <task id="LOCAL-00001" summary="starting to build page structure using bootstrap">
       <created>1616457746286</created>
@@ -164,7 +162,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616604685569</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="minor edits">
+      <created>1616605741378</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616605741378</updated>
+    </task>
+    <task id="LOCAL-00016" summary="minor edits">
+      <created>1616605926480</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616605926480</updated>
+    </task>
+    <task id="LOCAL-00017" summary="minor edits">
+      <created>1616605944924</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616605944924</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +194,7 @@
     <MESSAGE value="added bio.html, improved navbar formatting" />
     <MESSAGE value="added scripts.js to dynamically populate portfolio grid (bootstrap cards)" />
     <MESSAGE value="intro video, minor edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="intro video, minor edits" />
+    <MESSAGE value="minor edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor edits" />
   </component>
 </project>
