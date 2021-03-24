@@ -1,4 +1,3 @@
-
 body .navbar {
   font-family: "Roboto";
   font-size: 1.25em;
@@ -7,4 +6,16 @@ body .navbar {
 
 .navbar-link {
   padding-left: 0.625em;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 5px;
+  padding-inline-start: 10px;
+}
+
+h5 {
+  text-align: center;
 }
