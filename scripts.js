@@ -14,7 +14,6 @@ let makeProjectCard = (title, desc, repoName) => {
     divCard.className = "card bg-light mb-3";
     divCard.style = "padding-block-start: 25px; max-width: 40em;";
 
-
     h5CardTitle = document.createElement("h5");
     h5CardTitle.className = "card-title";
     h5CardTitle.innerHTML = title;
