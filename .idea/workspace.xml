@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="449c3486-26c4-4c8c-ad0d-ed0095cb7d7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bio.html" afterDir="false" />
+    <list default="true" id="449c3486-26c4-4c8c-ad0d-ed0095cb7d7e" name="Default Changelist" comment="added bio.html, improved navbar formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile_pic.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile_pic.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vdesai\Git\standingtree\img" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616456848299</updated>
-      <workItem from="1616456849867" duration="11225000" />
+      <workItem from="1616456849867" duration="16290000" />
     </task>
     <task id="LOCAL-00001" summary="starting to build page structure using bootstrap">
       <created>1616457746286</created>
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616460024079</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added bio.html, improved navbar formatting">
+      <created>1616530639770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616530639770</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting to build page structure using bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting to build page structure using bootstrap" />
+    <MESSAGE value="added bio.html, improved navbar formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bio.html, improved navbar formatting" />
   </component>
 </project>
