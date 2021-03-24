@@ -12,7 +12,8 @@ let makeProjectCard = (title, desc, repoName) => {
     // create elements
     divCard = document.createElement("div");
     divCard.className = "card bg-light mb-3";
-    divCard.style = "max-width: 40em;";
+    divCard.style = "padding-block-start: 25px; max-width: 40em;";
+
 
     h5CardTitle = document.createElement("h5");
     h5CardTitle.className = "card-title";
@@ -23,7 +24,6 @@ let makeProjectCard = (title, desc, repoName) => {
 
     pCardText = document.createElement("p");
     pCardText.className = "card-text";
-    pCardText = document.createElement("p");
 
     aLiveLink = document.createElement("a");
     aLiveLink.href = liveLink;
