@@ -4,89 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/binarySearch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/Output.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/hanoi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/hanoi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/peghist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/hanoi tower/webcom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/indexSolution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/permute string/permute-string-starter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/permute string/permute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/rotate matrix/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/rotate matrix/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/rotate matrix/rotateMatrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 starter files/towerSolution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/arrow-functions/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/arrow-functions/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/arrow-functions/arrow_functions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/default-parameters/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/default-parameters/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/default-parameters/03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment-functions/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment-functions/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment-functions/destructuring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment-functions/functions_IO.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment/destructuring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/destructuring-assignment/functions_IO.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/embedding-expressions/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/embedding-expressions/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/embedding-expressions/03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/embedding-expressions/04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/enhanced-object-literals/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/modules-in-es6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/modules-in-es6/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/modules-in-es6/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/spread-and-rest/copy_and_merge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/spread-and-rest/merge_arrays.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/spread-and-rest/rest_spread.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/spread-and-rest/value_and_reference.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals-multiline-strings/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals-multiline-strings/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals-multiline-strings/03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals-multiline-strings/04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals/01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals/03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/template-literals/04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/01_redefine_update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/02_function_scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/03_leaking_functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/04_leaking_blocks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/05_block_scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/06_counter_scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/var-let-const-closures-function-block-scope/07_value_vs_reference.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/word-count/warmup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 starter files/word-count/warmup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6-warmup-codeinterpretation/es6code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6-warmup-codeinterpretation/warmup3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6-warmup-shopping cart/fruits.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6-warmup-shopping cart/warmup2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6React/bluered.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6React/getData0.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 starter files/es6React/standalone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/01_map_hello_world.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/02_map_markers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/03_map_clustering.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/04_map_heatmap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/05_map_animation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/06_real-time_bus_tracker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/Week 9 Map Exercise Starter Files/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/bus-tracker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 9 starter files/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 8 starter files/google-font-styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8 starter files/google-font-styles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 8 starter files/using-timers-and-styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 8 starter files/using-timers-and-styles.html" afterDir="false" />
+    <list default="true" id="63ca3343-8f27-4cd4-aa45-f2c362631c39" name="Default Changelist" comment="week 12">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fullstack_exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
+    <list id="b165ca77-c3aa-4cd8-9547-0700bfa37011" name="Revert &quot;minor edits&quot;" comment="Revert &quot;minor edits&quot;&#10;&#10;This reverts commit 0491b225" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -179,7 +107,8 @@
       <workItem from="1616086155988" duration="804000" />
       <workItem from="1616374273140" duration="3024000" />
       <workItem from="1616433652660" duration="6973000" />
-      <workItem from="1617914845231" duration="13901000" />
+      <workItem from="1617914845231" duration="14116000" />
+      <workItem from="1618182620670" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="week 2 testing">
       <created>1609977920926</created>
@@ -265,7 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614718207974</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="week 12">
+      <created>1618182416927</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618182416927</updated>
+    </task>
+    <task id="LOCAL-00014" summary="week 12">
+      <created>1618182458578</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1618182458578</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +234,8 @@
     <MESSAGE value="PacMan practice project." />
     <MESSAGE value="week 7 updates" />
     <MESSAGE value="week 8 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 8 updates" />
+    <MESSAGE value="week 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 12" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
