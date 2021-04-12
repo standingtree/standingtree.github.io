@@ -1,6 +1,6 @@
 # standingtree.github.io
 
-Welcome to my GitHub portfolio.
+Welcome to my GitHub portfolio. You can learn a bit more about me here: https://standingtree.github.io/
 
 ## Here are some of the projects I have worked on:
 <ol>
