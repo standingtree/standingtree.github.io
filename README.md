@@ -1,4 +1,7 @@
 # standingtree.github.io
+
+Welcome to my GitHub portfolio.
+
 ## Here are some of the projects I have worked on:
 <ol>
   <li><a href = "https://standingtree.github.io/pacmen-exercise/">PacMen Exercise: An exercise in using onclick events and programmatic animation.</a>
