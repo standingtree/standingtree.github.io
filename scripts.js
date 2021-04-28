@@ -73,5 +73,11 @@ projectList.push({
     repoName: "real-time-bus-tracker"
 })
 
+projectList.push({
+    title: "A Simple Shopping Cart",
+    desc: "A simple shopping cart built with stateful ReactJS components.",
+    repoName: "shopping-cart"
+})
+
 
 populateProjects();
