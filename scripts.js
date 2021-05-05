@@ -79,5 +79,11 @@ projectList.push({
     repoName: "shopping-cart"
 })
 
+projectList.push({
+    title: "The EveryBar ATM",
+    desc: "The kind of ATM you love to hate on a night out, built with stateful ReactJS components, and utilizing some Bootstrap.",
+    repoName: "atm-machine"
+})
+
 
 populateProjects();
