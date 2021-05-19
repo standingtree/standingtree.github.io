@@ -85,5 +85,11 @@ projectList.push({
     repoName: "atm-machine"
 })
 
+projectList.push({
+    title: "Tic-Tac-Toe",
+    desc: "A simple tic-tac-toe game written in React.",
+    repoName: "tic-tac-toe"
+})
+
 
 populateProjects();
