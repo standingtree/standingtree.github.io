@@ -9,4 +9,5 @@ Welcome to my GitHub portfolio. You can learn a bit more about me here: https://
   <li><a href = "https://standingtree.github.io/real-time-bus-tracker/">Real-time MBTA bus tracker (Route 1): An exercise in working with real-time web data from a third party API, map manipulation in the DOM using the Mapbox API library.</a>
   <li><a href = "https://standingtree.github.io/shopping-cart/">A Simple Shopping Cart: A simple shopping cart built with stateful ReactJS components.</a>
   <li><a href = "https://standingtree.github.io/atm-machine/">The EveryBar ATM: The kind of ATM you love to hate on a night out, built with stateful ReactJS components, and utilizing some Bootstrap.</a>
+   <li><a href = "https://standingtree.github.io/tic-tac-toe/">Tic-Tac-Toe: A simple tic-tac-toe game written in React, with state passed between parent and child components in the DOM.</a>
  </ol>
