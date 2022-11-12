@@ -62,6 +62,12 @@ projectList.push({
 })
 
 projectList.push({
+    title: "Paani Data",
+    desc: "A collection of public data on the Indian water industry.",
+    repoName: "paani-data"
+})
+
+projectList.push({
     title: "A Simple Shopping Cart",
     desc: "A simple shopping cart built with stateful ReactJS components.",
     repoName: "shopping-cart"
