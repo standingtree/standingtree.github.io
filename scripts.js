@@ -73,6 +73,17 @@ projectList.push({
     repoName: "shopping-cart"
 })
 
+projectList.push({
+    title: "The EveryBar ATM",
+    desc: "The kind of ATM you love to hate on a night out, built with stateful ReactJS components, and utilizing some Bootstrap.",
+    repoName: "atm-machine"
+})
+
+projectList.push({
+    title: "Tic-Tac-Toe",
+    desc: "A simple tic-tac-toe game written in React.",
+    repoName: "tic-tac-toe"
+})
 
 projectList.push({
     title: "So Many PacMen, So Little Time",
@@ -86,18 +97,6 @@ projectList.push({
     repoName: "programmed-eyes-exercise"
 })
 
-
-projectList.push({
-    title: "The EveryBar ATM",
-    desc: "The kind of ATM you love to hate on a night out, built with stateful ReactJS components, and utilizing some Bootstrap.",
-    repoName: "atm-machine"
-})
-
-projectList.push({
-    title: "Tic-Tac-Toe",
-    desc: "A simple tic-tac-toe game written in React.",
-    repoName: "tic-tac-toe"
-})
 
 
 populateProjects();
