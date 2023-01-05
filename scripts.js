@@ -57,7 +57,7 @@ let populateProjects = () => {
 
 projectList.push({
     title: "Real-Time MBTA Bus Tracker (Route 1)",
-    desc: "An exercise in working with real-time web data from a third party API, and map manipulation in the DOM using the Mapbox API library.",
+    desc: "Current locations of MBTA Route 1 buses in Boston, using real-time web data from a third party API and map manipulation in the DOM using the Mapbox API library.",
     repoName: "real-time-bus-tracker"
 })
 
