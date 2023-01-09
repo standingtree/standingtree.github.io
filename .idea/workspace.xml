@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="449c3486-26c4-4c8c-ad0d-ed0095cb7d7e" name="Default Changelist" comment="minor edits">
-      <change beforePath="$PROJECT_DIR$/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,8 @@
       <workItem from="1617831593161" duration="646000" />
       <workItem from="1668256212378" duration="3820000" />
       <workItem from="1668266046509" duration="103000" />
-      <workItem from="1672949407145" duration="942000" />
+      <workItem from="1672949407145" duration="1549000" />
+      <workItem from="1673294484868" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="starting to build page structure using bootstrap">
       <created>1616457746286</created>
@@ -365,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672950275752</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="minor edits">
+      <created>1672950364390</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1672950364390</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

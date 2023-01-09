@@ -62,7 +62,7 @@ projectList.push({
 })
 
 projectList.push({
-    title: "Paani Data [**PRIVATE** Please contact me directly for a demo]",
+    title: "Paani Data",
     desc: "A curation of public data on the Indian water industry.",
     repoName: "paani-data"
 })
