@@ -63,7 +63,7 @@ projectList.push({
 
 projectList.push({
     title: "Paani Data",
-    desc: "A curation of public data on the Indian water industry.",
+    desc: "A curation of public data on the Indian water industry. **Uses the free version of Plotly Dash, so please contact me for a demo.",
     repoName: "paani-data"
 })
 
